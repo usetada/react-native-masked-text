@@ -32,7 +32,7 @@
 	},
 	"homepage": "https://github.com/benhurott/react-native-masked-text#readme",
 	"dependencies": {
-		"moment": "2.19.3",
+		"moment": "2.29.2",
 		"tinymask": "^1.0.2",
 		"@types/react-native": "*",
 		"@types/react": "*"
